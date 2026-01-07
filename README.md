@@ -1,4 +1,4 @@
-# Agentic Data Curator 
+# An Agentic MCP Data Curator 
 
 **A Model Context Protocol (MCP) Server for Semantically Valid Dataset Generation.**
 
