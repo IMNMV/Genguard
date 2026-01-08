@@ -133,4 +133,4 @@ Since the validation script outputs the existing text, the Agent acts on specifi
 
 ## License
 
-MIT# Genguard
+MIT
